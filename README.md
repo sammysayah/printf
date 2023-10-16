@@ -1,4 +1,4 @@
-0x11. C - printf team project
+ALX-SE Peer Programming Projects in C - language. 
 
 Group Project:                                                                      
                                                                                     
